@@ -1,5 +1,3 @@
-About this project
-This project is a task, assigned by The Spark Foundation in its Graduate Rotation Internship Program (GRIP)
 
 In this project Sales Data of a superstore is analyzed and a dashboard is created that clearly describes the total sales of the store, and also gives insights into the sale by category, sales by shipping method, and the total count of sales.
 
