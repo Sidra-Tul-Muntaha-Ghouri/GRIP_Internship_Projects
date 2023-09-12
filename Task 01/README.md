@@ -20,7 +20,7 @@ Visualizing the data through a scatter plot illuminated the relationship between
 In preparation for modeling, I divided the dataset into training and testing sets. This segregation ensured the accuracy of our predictive model.
 
 ### Step 5: Linear Regression Model
-A Linear Regression model was employed to predict student scores based on study hours. We extracted essential model parameters, including coefficients and the intercept.
+A Linear Regression model was employed to predict student scores based on study hours. I extracted essential model parameters, including coefficients and the intercept.
 
 ### Step 6: Result Visualization
 To gauge the model's performance, I compared its predictions to the actual scores. Visualizations, including scatter plots and a regression line, provided a clear picture of the model's effectiveness.
