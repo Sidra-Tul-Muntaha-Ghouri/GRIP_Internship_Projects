@@ -40,5 +40,6 @@ Completing this project yielded several notable outcomes:
 3. **Model Assessment:** Evaluated the model's performance using MAE, MSE, and R2 Score, achieving an impressive R2 Score of 0.94.
 
 This project serves as a significant milestone in my Data Science journey, equipping me with essential skills and knowledge for future endeavors.
+
 Check out the notebook of this project [here](https://github.com/Sidra-Tul-Muntaha-Ghouri/GRIP_Internship_Projects/blob/main/Task%2001/GRIP%20-%20Task%2001.ipynb)
 
