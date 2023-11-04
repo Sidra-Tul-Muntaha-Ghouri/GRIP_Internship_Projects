@@ -14,7 +14,7 @@ This repository contains my projects assigned in the Graduate Rotational Interns
 Here's a brief description of the projects included in this repository:
 
 ### Project 01
-- Description: [Provide a brief description of Project 01]
+- Predicting Student Scores Based on Study Hours
 
 ### Task 02
 - Description: [Provide a brief description of Task 02]
@@ -45,3 +45,6 @@ If you have any questions or would like to get in touch with me, you can reach o
 
 [Replace the placeholders with your actual contact information]
 
+<div style="text-align: center;">
+  This text is centered using HTML and CSS.
+</div>
