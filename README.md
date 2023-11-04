@@ -40,5 +40,5 @@ This project is licensed under the terms of the [License Name] License. See the 
 
 If you have any questions or would like to get in touch with me, you can reach out to me via:
 
-- Email: [sidratulmuntaha135@gmail.com]
+- [Email](mailto:sidratulmuntaha135@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sidra-tul-muntaha-ghouri/)
