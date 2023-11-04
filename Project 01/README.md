@@ -1,7 +1,7 @@
 # Data Science & Business Analytics Internship - The Spark Foundation
 **Batch: March 23**
 
-:-: ##Predicting Student Scores Based on Study Hours :-:
+##Predicting Student Scores Based on Study Hours
 
 In this project, I embarked on a fascinating journey in the field of Data Science and Business Analytics as part of The Spark Foundation's March23 batch. My primary task was to predict the percentage of a student's score based on the number of study hours, employing various data analysis and machine learning techniques.
 
