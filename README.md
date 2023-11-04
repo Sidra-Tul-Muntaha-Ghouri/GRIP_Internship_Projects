@@ -42,9 +42,3 @@ If you have any questions or would like to get in touch with me, you can reach o
 
 - Email: [sidratulmuntaha135@gmail.com]
 - LinkedIn: [Your LinkedIn Profile]
-
-[Replace the placeholders with your actual contact information]
-
-<div style="text-align: center;">
-  This text is centered using HTML and CSS.
-</div>
