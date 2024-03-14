@@ -2,6 +2,8 @@
 
 In this project, I have analyzed the Sales Data of a superstore and created a dashboard that provides comprehensive insights into the store's total sales, sales by category, sales by shipping method, and the total count of sales.
 
+![Dashboard](https://github.com/Sidra-Tul-Muntaha-Ghouri/GRIP_Internship_Projects/blob/main/Project%2003/Sales%20Dashboard_Sidra%20Tul%20Muntaha.png)
+
 ## Findings:
 
 ### Total Sales Analysis:
